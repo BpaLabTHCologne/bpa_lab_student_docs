@@ -21,7 +21,7 @@ Der Lagerroboter ist ein Produkt von [Fischertechnik](https://www.fischertechnik
 
 ![image](https://github.com/BpaLabTHCologne/bpa_lab_student_docs/assets/134142150/7e61d157-bf0b-4016-b8e8-1d36cd364fae)
 
-Im Repository [bpa_lab_warehouse_operations](https://github.com/BpaLabTHCologne/bpa_lab_warehouse_operations) findet man die Implementierung und Dokuemntation einer Prozessapplikation, die die Funktionalitäten des Lagerroboters veranschaulicht.
+Im Repository [bpa_lab_warehouse_operations](https://github.com/BpaLabTHCologne/bpa_lab_warehouse_operations) findet man die Implementierung und Dokumentation einer Prozessapplikation, die die Funktionalitäten des Lagerroboters veranschaulicht.
 
 ***
 
