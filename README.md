@@ -31,3 +31,7 @@ Der Openroute Service bietet verschieden Dienste auf Basis von OpenStreetMap-Dat
 ![image](https://github.com/BpaLabTHCologne/bpa_lab_student_docs/assets/134142150/bad57994-b9c7-4343-aad0-69c6ea2d077f)
 
 In einer beispielhaften Prozessapplikation ([bpa_lab_openroute_service_api](https://github.com/BpaLabTHCologne/bpa_lab_openroute_service_API)) wurden die Funktionen zur Routenplanung der Schnittstelle von Openroute Service implementiert. Zudem wird anhand des Beispielprozesses und der Openroute Serivce REST API erläutert, wie eine [REST Connector Task](https://docs.camunda.io/docs/components/connectors/protocol/rest/) in Camunda 8 implementiert werden kann.
+
+
+## Weiterführende Informationen
+Sollte tiefers Interesse in das BPA-Lab bestehen, finden Sie genauere Informationen in dem Repository [bpa_lab_docs](https://github.com/BpaLabTHCologne/bpa_lab_docs). Dort finden Sie Inhalte zu dem Aufbau der GitHub Organisation, den enthaltenen Repositories, einen Überblick über die gesamte Architektur des BPA-Labs und einen Vorstellung der Lernfabrik 4.0, die zu Demonstrationszwecken genutzt wird.
